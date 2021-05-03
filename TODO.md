@@ -18,4 +18,4 @@
 
 * [ ] Jugar con set de datos `iris` para ver que ejemplos pueden salir de ahí
 * [ ] Buscar 2 sets de datos más para descargar e incluir en repositorio
-* [ ] Crear estructura de carpetas basada en ![Noble, 2009](https://doi.org/10.1371/journal.pcbi.1000424)
+* [ ] Crear estructura de carpetas basada en ![Noble, 2009](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
